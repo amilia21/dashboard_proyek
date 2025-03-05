@@ -1,0 +1,3 @@
+berikut link dashboard
+  Local URL: http://localhost:8501
+  Network URL: http://10.10.3.80:8501
